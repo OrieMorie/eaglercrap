@@ -1,6 +1,4 @@
-HOW TO USE: Either Go To: https://oriemorie.github.io/EaglerCrap
-
-OR Download The "index.html" From The Repository
+HOW TO USE: Either Go To: https://oriemorie.github.io/EaglerCrap OR Download The "index.html" From The Repository
 
 Open GUI For Mods With: "Y"
 
