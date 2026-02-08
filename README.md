@@ -1,6 +1,12 @@
 HOW TO USE: Either Go To: https://oriemorie.github.io/EaglerCrap
 
-OR Download The "Index.Html" From The Repository
+OR Download The "index.html" From The Repository
+
+Open GUI For Mods With: "Y"
+
+To Fix Blurry Textures Hold G Then Press ESC
+
+The Fire Is A Glitched Texture To Remove It From First Person For More Consis Easier Andtent PVP (And So You Can See Invisible Players) So Sorry About That
 
 Version Usage: EaglerCraft 1.5.2
 
