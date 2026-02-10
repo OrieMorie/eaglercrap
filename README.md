@@ -16,9 +16,13 @@ If You Have Any Suggestions DM Me On Discord: OrieMorie8291
 
 Thanks For Using.
 
-UPDATES:
+UPDATE LOGS:
 
-2/7/26:
+2/10/2026:
+
+Huge update: NEW GUI for everything pause and menu related, INCLUDING hotbar and some more!!!
+
+2/7/2026:
 
 fixed nether star texture
 
