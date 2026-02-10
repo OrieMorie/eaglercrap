@@ -20,7 +20,7 @@ UPDATE LOGS:
 
 2/10/2026:
 
-Huge update: NEW GUI for everything pause and menu related, INCLUDING hotbar and some more!!!
+Huge update: NEW GUI for everything pause and menu related, INCLUDING hotbar and updated splash title to help newer users!
 
 2/7/2026:
 
