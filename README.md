@@ -22,7 +22,7 @@ UPDATE LOGS:
 
 Texture pack is now automatically selected allowing for faster launch times and fixes accidental self crashing(s) of the game (Suggested by Nervy owner of Messcraft)
 
-New Panoramas
+New Main Menu Panorama Pictures
 
 
 
