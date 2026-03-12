@@ -26,7 +26,7 @@ UPDATE LOGS:
 
 3/11/2026:
 
-Added New Main Menu Music (And Failed To Add Higher Quality Sounds, Unsure Why, They Would CUT Off :/ Will Retry Later)
+Added New Main Menu Music, And A Few More Mentions Of Orie Client Such As The Tab Name. (And Failed To Add Higher Quality Sounds, Unsure Why, They Would CUT Off :/ Will Retry Later.)
 
 
 
