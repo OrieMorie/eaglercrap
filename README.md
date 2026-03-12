@@ -24,6 +24,12 @@ UPDATE LOGS:
 
 
 
+3/11/2026:
+
+Added New Main Menu Music (And Failed To Add Higher Quality Sounds, Unsure Why, They Would CUT Off :/ Will Retry Later)
+
+
+
 3/6/2026:
 
 HOTFIX: Fixed Enchantment Tables Being An Error Texture (I Have No Idea Why It Was DELETED)
