@@ -22,6 +22,10 @@ Thanks For Using.
 
 UPDATE LOGS:
 
+3/13/2026:
+
+Added New Bow Indicators When Its Ready To Fire
+
 
 
 3/11/2026:
