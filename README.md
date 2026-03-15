@@ -24,7 +24,7 @@ UPDATE LOGS:
 
 3/13/2026:
 
-Added New Bow Indicators When Its Ready To Fire
+Added New Bow Indicators That Show When Its Ready To Fire At Max Power
 
 
 
