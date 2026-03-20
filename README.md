@@ -22,6 +22,12 @@ Thanks For Using.
 
 UPDATE LOGS:
 
+3/20/2026:
+
+Added A New Website Allowing Selection Between Orie Client And Classic 1.5.2 (With Performance Upgrades)
+
+
+
 3/13/2026:
 
 Added New Bow Indicators That Show When Its Ready To Fire At Max Power
