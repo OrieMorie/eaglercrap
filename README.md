@@ -1,4 +1,4 @@
-Orie Client For Eaglercraft 1.5.2 (Modified Resent)
+Orie Client For Eaglercraft 1.5.2 (Modified Resent, Also Contains Classic 1.5.2)
 
 UPDATE LOGS BELOW!
 
